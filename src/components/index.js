@@ -5,5 +5,6 @@ import Mission from "./Mission";
 import Explorer from "./Explorer";
 import Footer from "./Footer";
 import Hero from "./Hero";
+import Content from "./Content";
 
-export { Navbar, Emit, Goal, Mission, Explorer, Footer, Hero };
+export { Navbar, Emit, Goal, Mission, Explorer, Footer, Hero, Content };

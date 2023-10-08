@@ -1,11 +1,11 @@
-import { content1 } from "../assets";
+import { content3 } from "../assets";
 import styles, { layout } from "../style";
 
-const Emit = () => (
+const Content = () => (
   <section id="product" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img
-        src={content1}
+        src={content3}
         alt="billing"
         className="w-[100%] h-[100%] relative z-[5]"
       />
@@ -29,4 +29,4 @@ const Emit = () => (
   </section>
 );
 
-export default Emit;
+export default Content;

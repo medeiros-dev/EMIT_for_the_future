@@ -7,6 +7,7 @@ import {
   Navbar,
   Explorer,
   Hero,
+  Content,
 } from "./components";
 
 const App = () => (
@@ -29,6 +30,7 @@ const App = () => (
         <Mission />
         <Emit />
         <Goal />
+        <Content />
         <Footer />
       </div>
     </div>
