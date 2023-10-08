@@ -21,9 +21,11 @@ const Emit = () => (
         Unlocking the Wonders of EMIT Satellite Data
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Explore the seamless integration of EMIT satellite data within the
-        game's dynamic phases, showcasing the endless possibilities it offers to
-        enhance your gaming adventure.
+        Experience with EMIT’S MISSION the discovery of the vast range of areas
+        of EMIT’s sensor data collection and the influence of the mineral dust
+        and gas mapping on the planet, within the game's dynamic phases,
+        showcasing the endless possibilities it offers to enhance your gaming
+        adventure.
       </p>
     </div>
   </section>

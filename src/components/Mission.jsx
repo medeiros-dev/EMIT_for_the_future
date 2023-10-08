@@ -35,7 +35,7 @@ const Mission = () => (
         Space exploration and decision-making <br /> with EMIT!
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        The game takes place in space, with the player assuming the role of an
+        The game takes place in space, where the player assumes the role of an
         astronaut. By receiving data from EMIT in various scenarios like
         deserts, forests, snow, and water, players make decisions to understand
         the impact of the information.

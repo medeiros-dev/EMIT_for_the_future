@@ -4,13 +4,13 @@ import styles, { layout } from "../style";
 const Goal = () => (
   <section className={layout.section} id="goal">
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
-      </h2>
+      <h2 className={styles.heading2}>Learning and playing with science</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        Through the game, the player gets to learn about the possible outcomes
+        of mineral dust and atmospheric gasses on earth, and about EMIT’s
+        history and it’s future possibilities as well as how EMIT processes the
+        data, expanding their knowledge about that new incredible tool of
+        research.
       </p>
     </div>
 
