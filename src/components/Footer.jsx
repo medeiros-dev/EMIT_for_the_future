@@ -11,7 +11,7 @@ const Footer = () => (
           className="w-[266px] h-[72.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[400px]`}>
-          Become a NASA Hero at EMIT mission!
+          Become a Space Hero at EMIT mission!
         </p>
       </div>
     </div>

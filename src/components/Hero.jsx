@@ -23,7 +23,7 @@ const Hero = () => {
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
             Become a
             <br className="sm:block hidden" />{" "}
-            <span className="text-gradient">NASA Hero</span>{" "}
+            <span className="text-gradient">Space Hero</span>{" "}
           </h1>
         </div>
 
@@ -34,9 +34,9 @@ const Hero = () => {
       </div>
 
       <div
-        className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative hero-image`}
+        className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative my-5 md:hero-image`}
       >
-        <img src={mission} alt="billing" className="w-[100%] h-[100%] z-[5]" />
+        <img src={mission} alt="billing" className="w-[100%] z-[5]" />
       </div>
     </section>
   );

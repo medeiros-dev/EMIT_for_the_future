@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import mission from "./mission.gif";
 import space from "./space.png";
 import satelite from "./satelite.png";
